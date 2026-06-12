@@ -22,9 +22,9 @@
 - 🌱 &nbsp;Học tại **THCS Lê Hồng Phong**
 - 🤖 &nbsp;Đam mê **Network Coputer**
 - 🔐 &nbsp;Nghiên cứu **Linux & Network Security**
-- 📝 &nbsp;Viết bài trên **[TikTok @longhip2012](https://www.tiktok.com/@longhip2012)**
 - 🎯 &nbsp;Mục tiêu: **Đỗ chuyên tin cấp 3**
-- 📫 &nbsp;Liên hệ: **longhip2022@gmail.com**
+- 📝 &nbsp;Viết bài trên **[TikTok @longhip2012](https://www.tiktok.com/@longhip2012)**
+- 📫 &nbsp;Liên hệ: **longhip20qw@gmail.com**
 
 ---
 
