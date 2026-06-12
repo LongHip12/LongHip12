@@ -24,7 +24,7 @@
 - 🔐 &nbsp;Nghiên cứu **Linux & Network Security**
 - 🎯 &nbsp;Mục tiêu: **Đỗ chuyên tin cấp 3**
 - 📝 &nbsp;Viết bài trên **[TikTok @longhip2012](https://www.tiktok.com/@longhip2012)**
-- 📫 &nbsp;Liên hệ: **longhip20qw@gmail.com**
+- 📫 &nbsp;Liên hệ: **longhip2012@gmail.com**
 
 ---
 
