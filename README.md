@@ -32,8 +32,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-quoctuan21112009--maker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quoctuan21112009-maker)
-[![Facebook](https://img.shields.io/badge/Facebook-Quốc%20Tuấn%20QT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quoctuzn)
+[![GitHub](https://img.shields.io/badge/GitHub-longhip12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/longhip12)
+[![Facebook](https://img.shields.io/badge/Facebook-Hoàng%20Long%20QT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/longhip7730)
 [![TikTok](https://img.shields.io/badge/TikTok-@longhip2012?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@longhip2012)
 [![Gmail](https://img.shields.io/badge/Gmail-LongHip12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longhip2012@gmail.com)
 
