@@ -19,10 +19,10 @@
 
 
 - 🔭 &nbsp;Ước mơ  làm việc với **Cybersecurity**
-- 🌱 &nbsp;Học tại **THCS Lê Hồng Phong**
+- 🌱 &nbsp;Học tại **403 Forbidden**
 - 🤖 &nbsp;Đam mê **Network Coputer**
 - 🔐 &nbsp;Nghiên cứu **Linux & Network Security**
-- 🎯 &nbsp;Mục tiêu: **Đỗ chuyên tin cấp 3**
+- 🎯 &nbsp;Mục tiêu: **403 Forbidden**
 - 📝 &nbsp;Viết bài trên **[TikTok @longhip2012](https://www.tiktok.com/@longhip2012)**
 - 📫 &nbsp;Liên hệ: **longhip2012@gmail.com**
 
